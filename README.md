@@ -20,7 +20,7 @@ Auto Sertif adalah aplikasi pembuatan sertifikat yang memudahkan pengguna untuk 
 
 ## Unduh Aplikasi
 
-Anda dapat mengunduh versi terbaru Auto Sertif dari halaman [Releases](https://github.com/YourUsername/Auto-Sertif/releases/latest).
+Anda dapat mengunduh versi terbaru Auto Sertif dari halaman [Releases](https://github.com/gerrymoeis/auto_sertif/releases/latest).
 
 Tersedia untuk:
 - Android (.apk)
@@ -63,12 +63,12 @@ Untuk mengembangkan atau membangun aplikasi dari source code, Anda memerlukan:
 
 1. Clone repository:
    ```
-   git clone https://github.com/YourUsername/Auto-Sertif.git
+   git clone https://github.com/gerrymoeis/auto_sertif.git
    ```
 
 2. Masuk ke direktori proyek:
    ```
-   cd Auto-Sertif/auto_sertif
+   cd auto_sertif
    ```
 
 3. Instal dependensi:
