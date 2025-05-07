@@ -1,7 +1,7 @@
 # Auto Sertif
 
 <p align="center">
-  <img src="assets/logo.ico" alt="Auto Sertif Logo" width="100" height="100">
+  <img src="assets/logo.png" alt="Auto Sertif Logo" width="100" height="100">
 </p>
 
 Auto Sertif adalah aplikasi pembuatan sertifikat yang memudahkan pengguna untuk membuat sertifikat profesional secara massal. Dengan tema gelap yang elegan dan efek gradien ungu/biru, aplikasi ini menyediakan pengalaman pengguna yang modern dan intuitif.
