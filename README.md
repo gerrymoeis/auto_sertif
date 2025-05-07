@@ -20,7 +20,7 @@ Auto Sertif adalah aplikasi pembuatan sertifikat yang memudahkan pengguna untuk 
 
 ## Unduh Aplikasi
 
-Anda dapat mengunduh versi terbaru Auto Sertif dari halaman [Releases](https://github.com/YourUsername/Auto-Sertif/releases).
+Anda dapat mengunduh versi terbaru Auto Sertif dari halaman [Releases](https://github.com/YourUsername/Auto-Sertif/releases/latest).
 
 Tersedia untuk:
 - Android (.apk)
